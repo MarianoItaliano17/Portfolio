@@ -16,6 +16,10 @@ const translations = {
     project3_description: "Coffee web made with HTML, CSS and JavaScript",
     project4: "Weather App",
     project4_description: "Weather app made with Angular and OpenWeatherAPI",
+    project5: "Figma Clone",
+    project5_description: "Figma clone made with Next.js, Liveblocks and Fabric.js",
+    project6: "Twitter Clone",
+    project6_description: "Twitter clone made with Angular and Firebase",
   },
   es: {
     position: "Programador Full Stack",
@@ -33,6 +37,10 @@ const translations = {
     project3_description: "Sitio Web de Café hecho con HTML, CSS  y JavaScript",
     project4: "Aplicación de Clima",
     project4_description: "Aplicación de Clima hecho con Angular y OpenWeatherAPI",
+    project5: "Clon de Figma",
+    project5_description: "Clon de Figma hecho con Next.js, Liveblocks y Fabric.js",
+    project6: "Clon de Twitter",
+    project6_description: "Clon de Twitter hecho con Angular y Firebase",
   },
 };
 
